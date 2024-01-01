@@ -1,0 +1,2 @@
+cc_fraud_detection.ipynb filter=lfs diff=lfs merge=lfs -text
+creditcard.csv filter=lfs diff=lfs merge=lfs -text
